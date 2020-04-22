@@ -1,7 +1,7 @@
 # Demovideo – projekti WALL•I 
-Tietotekniikan sovellusprojekti 
+Tietotekniikan sovellusprojekti TVT20KMO 
 
-Mikkola ja Simula TVT20KMO 
+Mikkola ja Simula 
  
 Demovideo: https://youtu.be/1AB4X7viaD8  
  
