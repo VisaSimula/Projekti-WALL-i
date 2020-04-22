@@ -1,6 +1,6 @@
 # Demovideo – projekti WALL•I 
 Tietotekniikan sovellusprojekti 
-Demovideo – projekti WALL•I 
+
 Mikkola ja Simula TVT20KMO 
  
 Demovideo: https://youtu.be/1AB4X7viaD8  
