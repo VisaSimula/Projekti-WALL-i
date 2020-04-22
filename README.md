@@ -1,2 +1,2 @@
-# Projekti-WALL-i
+# Portfolio
 Tietotekniikan sovellusprojekti TVT20KMO
